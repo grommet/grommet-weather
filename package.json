@@ -55,8 +55,5 @@
     "react-dev-utils": "^4.2.1",
     "simple-git": "^1.85.0",
     "webpack": "^3.10.0"
-  },
-  "pre-commit": [
-    "check"
-  ]
+  }
 }
