@@ -3149,7 +3149,7 @@ grommet-icons@^0.14.0:
 
 "grommet@https://github.com/grommet/grommet/tarball/NEXT-stable":
   version "2.0.0-alpha.6"
-  resolved "https://github.com/grommet/grommet/tarball/NEXT-stable#5be55539332ff8ba5a9f39007fc9ca4a3cbad676"
+  resolved "https://github.com/grommet/grommet/tarball/NEXT-stable#075456a9a76faafae9698ff295cec17d76c08568"
   dependencies:
     date-time-format-timezone "^1.0.21-alpha.2"
     grommet-icons "^0.10.0"
